@@ -113,4 +113,4 @@ Console dan Password Toosni ishlatib bulgandan sung sizga dasturdan chiqasizmi y
 Console dan Asosey menuga turgan holga exitni bossez dastursizga hayer deydi.
 
 ### Dastur ishlashi
-![gif](/Document/Gif/4.4.gif)
+![gif](/SmartStudentUntilitySystemConsole/Document/Gif/4.4.gif)
